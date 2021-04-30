@@ -30,7 +30,6 @@ https://mn-nl.mncdn.com/tvriasi_new/smil:tvriasi_new.smil/index.m3u8
 https://mn-nl.mncdn.com/tvrtgmures_new/smil:tvrtgmures_new.smil/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Pro TV RO" tvg-name="Pro TV RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/XBVUD3J.png" group-title="General",Pro TV
 https://cmero-ott-live-sec.ssl.cdn.cra.cz/HZpBMpcDple1nuRZZLxY-A==,1607874962/channels/cme-ro-protv/playlist/rum/live_fullhd.m3u8
 
@@ -48,6 +47,9 @@ https://cmero-ott-live-sec.ssl.cdn.cra.cz/VHnSxHfR3tQd0LUI3v60eA==,1607876032/ch
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/O9T7Uqp.png" group-title="News",Pro TV News
 https://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/26D3mCb.png" group-title="General",Antena 1
+https://ivm.antenaplay.ro/live/a1/playlist.m3u8
 
 
 
